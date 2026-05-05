@@ -4,8 +4,8 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên: (điền tên)
-- Mã sinh viên: (điền MSV)
+- Họ tên: Phạm Thị Yến Anh
+- Mã sinh viên: 1771020060
 - Nhóm: Access Gate
 - Vai trò dự kiến trong nhóm: Developer
 - Hệ điều hành: Windows 11
